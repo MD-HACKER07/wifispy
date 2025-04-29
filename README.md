@@ -1,27 +1,3 @@
-[![Build Status](https://travis-ci.org/wifiphisher/wifiphisher.svg?branch=master)](https://travis-ci.org/wifiphisher/wifiphisher)
-[![Documentation Status](https://readthedocs.org/projects/wifiphisher/badge/?version=latest)](http://wifiphisher.readthedocs.io/en/latest/?badge=latest)
-![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
-![License](https://img.shields.io/badge/license-GPL-blue.svg)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MD-HACKER07/wifispy/main/docs/images/logo.png" alt="WifiSpy Logo" width="300" />
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="Version 2.0" />
-  <img src="https://img.shields.io/badge/python-3.9-blue.svg" alt="Python 3.9" />
-  <img src="https://img.shields.io/badge/platform-linux-green.svg" alt="Platform" />
-  <img src="https://img.shields.io/badge/license-GPL-blue.svg" alt="License" />
-</div>
-
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#quick-start">Quick Start</a> •
-  <a href="#usage-examples">Usage Examples</a> •
-  <a href="#screenshots">Screenshots</a>
-</p>
 
 # WifiSpy - Advanced Wi-Fi Security Assessment Toolkit
 
